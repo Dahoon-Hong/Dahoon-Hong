@@ -17,7 +17,7 @@ I feel happy when my program working as what I expect.
 3. Visualization
 
 
-## 🌱 Finished side projects 
+## 🌱 What I've done
 1. Make utility tools. (xml validation with xsd, unixtime <-> datetime converter) PyQt5, Python (2019)
 2. Web Scraping. selenium, Python (2020)
 3. Data Mining and Linear regression. Python, pandas + scikit-learn (2020)
