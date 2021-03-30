@@ -1,25 +1,27 @@
-### Hi there 👋
-## Who am I
+### About me 👋
+## Who am I ?
 @name : Dahoon Hong  
 @contact : slayerboxr@gmail.com  
-4+ years exprience developer.  
-Develop client using C++(1+ years) and maintenence it.
-Develop backend server and apis using python django(3+ year).
-Data Analysis using SQL and python.
+4+ years exprience developer. (1+ years for client and 3+ years for backend server)
+I feel happy when my program working as what I expect.
 
-## 🌱 What I'm studying or doing
-1. Change Backend and batch server architecture to CloudNative
-2. Simple Game using unity
-3. Problem Solving
+## 😄 What I'm studying or doing
+1. Simple cilck base 2D Game using unity
+2. Problem Solving
    2021 Codejam : QR Pass at 2021-03-27
 
    
-## What I want to study or do (Maybe later)
+## 🔭 What I want to study or do (Maybe later)
 1. Genetic algorithm
+2. 3D Game using unity
+3. Visualization
 
 
-## What I've Done
-1. 
+## 🌱 Finished side projects 
+1. Make utility tools. (xml validation with xsd, unixtime <-> datetime converter) PyQt5, Python (2019)
+2. Web Scraping. selenium, Python (2020)
+3. Data Mining and Linear regression. Python, pandas + scikit-learn (2020)
+4. Abnormal detection with auto-encoder model. Python, tensorflow (2021)
 
 
 <!--
