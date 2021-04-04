@@ -11,6 +11,8 @@ I feel happy when my program working as what I expect.
 1. Simple cilck base 2D Game using unity
 2. Problem Solving
    2021 Codejam : QR Pass at 2021-03-27
+3. CodeForce
+   Start from Newbie
 
    
 ## 🔭 What I want to study or do (Maybe later)
