@@ -2,8 +2,10 @@
 ## Who am I ?
 @name : Dahoon Hong  
 @contact : slayerboxr@gmail.com  
+@blog : https://dahoonhong.blogspot.com/
 4+ years exprience developer. (1+ years for client and 3+ years for backend server)
 I feel happy when my program working as what I expect.
+
 
 ## 😄 What I'm studying or doing
 1. Simple cilck base 2D Game using unity
