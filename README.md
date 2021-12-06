@@ -10,7 +10,7 @@ I feel happy when my program working as what I expect.
 ## 😄 What I'm studying or doing
 1. Simple cilck base 2D Game using unity
    https://youtu.be/Xu3G22GgWIE
-2. Problem Solving (codeforce - https://codeforces.com/profile/dahoon)
+2. Problem Solving (leetcode - https://leetcode.com/slayerboxr/)
 3. Photo Mosaic (https://en.wikipedia.org/wiki/Photographic_mosaic)
 
    
