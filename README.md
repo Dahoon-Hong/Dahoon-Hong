@@ -2,7 +2,7 @@
 ## Who am I ?
 @name : Dahoon Hong  
 @contact : slayerboxr@gmail.com  
-5+ years exprience developer. (1+ years for client and 3+ years for backend server)
+5+ years // 1+ years for client and 4+ years for backend + data engineer
 I feel happy when my program working as what I expect.
 
 
